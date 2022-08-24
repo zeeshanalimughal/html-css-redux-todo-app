@@ -1,0 +1,14 @@
+{
+    "name": "Redux Todo App",
+    "version": "1.0.0",
+    "main": "todo.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "parcel serve --port=3000 index.html"
+    },
+    "dependencies": {
+        "parcel": "^2.0.0-rc.0",
+        "redux": "^4.1.1",
+        "uuid": "^8.3.2"
+    }
+}
